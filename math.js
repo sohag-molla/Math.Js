@@ -1,14 +1,14 @@
-//Math round// 
+//Math round// {Note:9.5 ar upor hola=10 kora deba and 9.4 hola 9 kora deba //round// a}
  
 //  let math = Math.round(9.5);
 //  console.log(math)
 
 
-//Math Ceil//
+//Math Ceil// {Note:11.1 ka =12 kora deba .1,2,3,4,5.. ja e hok nh kno tar uopr at sonkha kora deba}
 let ceil = Math.ceil(11.1);
 //console.log(ceil)
 
-//Math Floor//
+//Math Floor// {Note:10.9 ka =10 kora deba .1,2,...,8,9 ja e hok nh kno sai sonkha ka e raka deba}
 
 let floor = Math.floor(10.9);
 //console.log(floor)
